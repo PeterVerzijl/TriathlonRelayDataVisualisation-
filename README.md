@@ -1,4 +1,6 @@
 # TriathlonRelayDataVisualisation-
+![Screenshot 2024-08-03 133715](screenshot.png)
+
 An explorative data visualization project 
 
 Visualisation made for Data Visualisation

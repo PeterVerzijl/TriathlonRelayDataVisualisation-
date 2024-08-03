@@ -11,9 +11,8 @@ public Team[] teams;
 public DisableAllCheckbox disableAll;
 public ArrayList<Checkbox> checkboxes;
 
-void setup()
-{
-    size(WIDTH, HEIGHT);
+void setup() {
+    windowResize(WIDTH, HEIGHT);
     
     reader = new DataReader("data.txt");
     teams = reader.loadData();
